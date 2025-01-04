@@ -1,0 +1,9 @@
+opencv-python
+numpy
+matplotlib
+labelImg
+torch
+torchvision
+torchaudio
+cvzone
+git remote add origin https://github.com/Neeraj-Solanky/ParkingLot_area_Calculators-.git
